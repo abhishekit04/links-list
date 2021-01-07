@@ -1,5 +1,5 @@
 const form = document.querySelector('form');
-var port = 3000 || 80
+const port = 80 || 3000 || 4000;
 
 const createPost = async (e) => {
   e.preventDefault();
