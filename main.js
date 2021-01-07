@@ -1,6 +1,6 @@
 
 const getLinks = async () => {
-    const port = 80 || 3000 || 4000;
+    const port = process.env.PORT || 3000 || 4000 || 8080;
     let uri = `http://localhost:${port}/links?_sort=name&_order=asc`;
     const res = await fetch(uri);
     const links = await res.json();

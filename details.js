@@ -1,7 +1,7 @@
 // javascript for details.html
 const id = new URLSearchParams(window.location.search).get('id');
 const container = document.querySelector('.details');
-const port = 80 || 3000 || 4000;
+const port = process.env.PORT || 3000 || 4000 || 8080;
 
 const renderDetails = async () => {
     const res = await fetch(`http://localhost:${port}/links/` + id);
