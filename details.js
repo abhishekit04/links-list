@@ -18,6 +18,7 @@ const renderDetails = async () => {
         `;
 
         container.innerHTML = template;
+        
 }
 
 

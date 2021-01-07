@@ -9,6 +9,7 @@ const createPost = async (e) => {
     image: form.portfolio.value,
   }
 
+  
   await fetch('http://localhost:3000/links', {
     method: 'POST',
     body: JSON.stringify(doc),

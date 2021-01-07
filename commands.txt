@@ -1,0 +1,5 @@
+heroku local web  // to run locally
+
+
+heroku login    // login to heroku
+git push heroku main        // push to heroku
