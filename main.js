@@ -1,7 +1,7 @@
 
 const getLinks = async () => {
     // let uri = `http://localhost:${port}/links?_sort=name&_order=asc`;
-    let uri = 'https://links-list-app.herokuapp.com/links?_sort=name&_order=asc';
+    let uri = 'https://links-list-app.herokuapp.com/links/?_sort=name&_order=asc';
     const res = await fetch(uri);
     const links = await res.json();
 
