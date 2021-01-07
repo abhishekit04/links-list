@@ -2,7 +2,7 @@
   "name": "links-list",
   "version": "1.0.0",
   "description": "C:\\Users\\HP\\Downloads\\Portfolio-master\\Portfolio-master\\links-list",
-  "main": "index.html",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "json-server --watch users.json"

@@ -1,1 +1,1 @@
-web: npm install; gulp build; http-server; npm start
+web: npm install; gulp build; http-server; json-server --watch users.json; npm start
