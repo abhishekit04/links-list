@@ -5,7 +5,7 @@ const getLinks = async () => {
     const res = await fetch(uri);
     const links = await res.json();
 
-    console.log(links);
+    // console.log(links);
     
     
     links.forEach(i => {
