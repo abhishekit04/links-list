@@ -1,1 +1,1 @@
-web: npm start && index.html
+web: npm install; gulp build; http-server; npm start
