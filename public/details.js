@@ -1,10 +1,10 @@
 // javascript for details.html
 const id = new URLSearchParams(window.location.search).get('id');
 const container = document.querySelector('.details');
-const port = process.env.PORT || 3000;
+// const port = process.env.PORT || 3000;
 
 const renderDetails = async () => {
-    const res = await fetch(`http://localhost:${port}/links/` + id);
+    const res = await fetch(`https://links-list-app.herokuapp.com/links` + id);
     if (!res.ok) {
         window.location.replace("./index.html");
     }

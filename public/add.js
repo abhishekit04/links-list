@@ -1,5 +1,5 @@
 const form = document.querySelector('form');
-const port = process.env.PORT || 3000;
+// const port = process.env.PORT || 3000;
 
 const createPost = async (e) => {
   e.preventDefault();
@@ -11,7 +11,7 @@ const createPost = async (e) => {
   }
 
   
-  await fetch(`http://localhost:${port}/links`, {
+  await fetch(`https://links-list-app.herokuapp.com/links`, {
     method: 'POST',
     body: JSON.stringify(doc),
     headers: { 'Content-Type': 'application/json' }

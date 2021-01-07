@@ -1,7 +1,9 @@
 
+
 const getLinks = async () => {
-    const port = process.env.PORT || 3000;
-    let uri = `http://localhost:${port}/links?_sort=name&_order=asc`;
+    // const port = process.env.PORT || 3000;
+    // let uri = `http://localhost:${port}/links?_sort=name&_order=asc`;
+    let uri = 'https://links-list-app.herokuapp.com/links';
     const res = await fetch(uri);
     const links = await res.json();
 
