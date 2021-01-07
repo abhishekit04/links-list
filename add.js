@@ -1,4 +1,5 @@
 const form = document.querySelector('form');
+var port = 3000 || 80
 
 const createPost = async (e) => {
   e.preventDefault();
@@ -10,7 +11,7 @@ const createPost = async (e) => {
   }
 
   
-  await fetch('http://localhost:3000/links', {
+  await fetch(`http://localhost:${port}/links`, {
     method: 'POST',
     body: JSON.stringify(doc),
     headers: { 'Content-Type': 'application/json' }

@@ -2,9 +2,10 @@
 const id = new URLSearchParams(window.location.search).get('id');
 const container = document.querySelector('.details');
 const deleteBtn = document.querySelector('.delete');
+var port = 3000 || 80
 
 const renderDetails = async () => {
-    const res = await fetch('http://localhost:3000/links/' + id);
+    const res = await fetch(`http://localhost:${port}/links/` + id);
     if (!res.ok) {
         window.location.replace("./index.html");
     }
@@ -22,7 +23,7 @@ const renderDetails = async () => {
 }
 
 deleteBtn.addEventListener('click', async () => {
-    const res = await fetch('http://localhost:3000/links/' + id, {
+    const res = await fetch(`http://localhost:${port}/links/` + id, {
         method: 'DELETE'
     });
     
