@@ -1,0 +1,22 @@
+{
+  "links": [
+    {
+      "id": 1,
+      "name": "Purushottam Sharma",
+      "link": "https://pm-sharma.github.io/",
+      "image": "https://i.ibb.co/Tqc3WRR/websitesnip.png"
+    },
+    {
+      "id": 2,
+      "name": "Akshat Gupta",
+      "link": "https://www.akshatvg.com",
+      "image": "https://i.ibb.co/hVLq2ny/akshatvg.png"
+    },
+    {
+      "id": 3,
+      "name": "Sonu kumar kushwaha",
+      "link": "https://blog-minimal.netlify.app/",
+      "image": "https://i.ibb.co/6RCWgsr/Screenshot-2020-10-24-Sonu-kumar-kushwaha.png"
+    }
+  ]
+}
