@@ -1,7 +1,7 @@
 /*
-    Author : Sonu kumar kushwaha
-    Gmail  : flyingsonu736@gmail.com
-    GitHub : https://github.com/flyingsonu122
+  Author : Sonu kumar kushwaha
+  Gmail  : flyingsonu736@gmail.com
+  GitHub : https://github.com/flyingsonu122
 
 
 */
@@ -87,6 +87,10 @@ a:hover {
   /* border: 2px solid yellow; */
 }
 
+a:visited {
+  color: #202020;
+}
+
 p {
   font-size: 20px;
   padding: 0px;
@@ -118,6 +122,11 @@ textarea {
   border: 1px solid #ddd;
   font-family: "Roboto";
 }
+
+input:focus {
+  outline: none;
+}
+
 textarea {
   min-height: 200px;
 }
