@@ -1,7 +1,7 @@
 
 const getLinks = async () => {
-    // let uri = `http://localhost:3000/links?_sort=name&_order=asc`;
-    let uri = `https://github.com/flyingsonu122/links-list/blob/main/users.json`;
+    var port = 3000 || 80
+    let uri = `http://localhost:${port}/links?_sort=name&_order=asc`;
     const res = await fetch(uri);
     const links = await res.json();
 
