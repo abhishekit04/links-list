@@ -1,1 +1,1 @@
-web: node server.js ; npm run serve ; npm install; http-server
+web: node server.js ; http-server
