@@ -2,7 +2,7 @@
 const id = new URLSearchParams(window.location.search).get('id');
 const container = document.querySelector('.details');
 const deleteBtn = document.querySelector('.delete');
-const port =  3000 || 8080 || 4000 || 5000 || 80;
+const port = process.env.PORT || 3000;
 
 const renderDetails = async () => {
     const res = await fetch(`http://localhost:${port}/links/` + id);
