@@ -1,6 +1,6 @@
 to delete users link go to https://links-list-app.herokuapp.com/detailsForMe.html?id=<id no.>
 
-
+C:\Users\HP\Downloads\Portfolio-master\Portfolio-master\links-list
 
 heroku local web  // to run locally
 
