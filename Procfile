@@ -1,1 +1,1 @@
-web: npm install; gulp build; http-server; npm start; json-server users.json; node server.js
+web: npm install; gulp build; http-server; npm start; json-server users.json; nodemon server.js
