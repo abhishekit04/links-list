@@ -1,3 +1,7 @@
+to delete users link go to https://links-list-app.herokuapp.com/detailsForMe.html?id=<id no.>
+
+
+
 heroku local web  // to run locally
 
 
