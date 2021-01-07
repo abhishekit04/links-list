@@ -1,10 +1,11 @@
 
 const getLinks = async () => {
-    let uri = `http://localhost:3000/links?_sort=name&_order=asc`;
+    // let uri = `http://localhost:3000/links?_sort=name&_order=asc`;
+    let uri = `https://github.com/flyingsonu122/links-list/blob/main/users.json`;
     const res = await fetch(uri);
     const links = await res.json();
 
-    // console.log(links);
+    console.log(links);
     
     
     links.forEach(i => {
