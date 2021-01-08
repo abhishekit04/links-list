@@ -81,14 +81,26 @@ a {
 }
 
 a:hover {
-  /* text-decoration: dotted; */
   text-decoration: underline;
+  color: blueviolet;
 
-  /* border: 2px solid yellow; */
 }
 
 a:visited {
   color: #202020;
+}
+
+.link {
+
+  border: 2px solid black;
+  padding: 5px;
+  margin: 16px;
+}
+
+.link:hover {
+  background-color: green;
+  text-decoration: none;
+  color: white;
 }
 
 p {
@@ -135,3 +147,5 @@ textarea {
   padding: 5px;
   margin: 16px;
 }
+
+
