@@ -14,6 +14,7 @@ const renderDetails = async () => {
         <h2>${link.name}</h2>
         <a href="${link.link}">Website</a>
         <img src="${link.image}" class="img" alt="portfolio image">
+        <p>${link.about}</p>
         </div>
         `;
 

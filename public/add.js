@@ -7,6 +7,7 @@ const createPost = async (e) => {
     name: form.name.value,
     link: form.link.value,
     image: form.portfolio.value,
+    about: form.about.value,
   }
 
   

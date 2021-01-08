@@ -1,7 +1,6 @@
 // javascript for details.html
 const id = new URLSearchParams(window.location.search).get('id');
 const container = document.querySelector('.details');
-// const port = process.env.PORT || 3000;
 
 const renderDetails = async () => {
     const res = await fetch(`https://links-list-app.herokuapp.com/links/` + id);
@@ -15,6 +14,7 @@ const renderDetails = async () => {
         <h2>${link.name}</h2>
         <a href="${link.link}">Website</a>
         <img src="${link.image}" class="img" alt="portfolio image">
+        <p>${link.about}</p>
         </div>
         `;
 
