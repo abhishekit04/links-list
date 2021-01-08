@@ -11,15 +11,17 @@ const renderDetails = async () => {
     const link = await res.json();
 
     const template = `
-        <div class="fixed-content card " data - aos="fade-up" >
-        <h2>${link.name}</h2>
-        <a href="${link.link}">Website</a>
-        <img src="${link.image}" class="img" alt="portfolio image">
-        <p>${link.about}</p>
+        <div class="card">
+            <div class="content" data-aos="fade-up" >
+                <h2>${link.name}</h2>
+                <a href="${link.link}">Website</a><br/>
+                <img src="${link.image}" class="image" alt="portfolio image"><br/>
+                <p>${link.about}</p>
+            </div>
         </div>
-        `;
+    `;
 
-        container.innerHTML = template;
+    container.innerHTML = template;
 }
 
 deleteBtn.addEventListener('click', async () => {

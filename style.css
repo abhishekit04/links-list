@@ -55,12 +55,41 @@ body {
   border-radius: 8px;
 }
 
+.content {
+  padding: 5px;
+  margin: 15px;
+  height: auto;
+  width: auto;
+  min-width: 280px;
+  min-height: 600px;
+  text-align: center;
+  box-shadow: 6px 6px 10px #ccb3ff;
+  align-items: center;
+  border-top: 4px solid #6c5ce7;
+  border-radius: 8px;
+}
+
+.image {
+  padding: 0px 5px;
+  margin: 5px;
+  max-width: 280px;
+  height: 320px;
+  border-radius: 4%;
+}
+
 h3 {
   text-align: center;
   background-color: rgba(190, 108, 228, 0.1);
   padding: 16px;
   margin: 0;
   text-transform: uppercase;
+}
+
+h2,
+h4 {
+  padding: 10px;
+  margin: 0px;
+  text-transform: capitalize;
 }
 
 h5 {
@@ -83,7 +112,6 @@ a {
 a:hover {
   text-decoration: underline;
   color: blueviolet;
-
 }
 
 a:visited {
@@ -91,7 +119,6 @@ a:visited {
 }
 
 .link {
-
   border: 2px solid black;
   padding: 5px;
   margin: 16px;
@@ -104,10 +131,8 @@ a:visited {
 }
 
 p {
-  font-size: 20px;
-  padding: 0px;
+  padding: 10px;
   margin: 0px;
-  padding-bottom: 15px;
   line-height: 30px;
   letter-spacing: 0.07em;
 }
@@ -147,5 +172,4 @@ textarea {
   padding: 5px;
   margin: 16px;
 }
-
 
