@@ -10,6 +10,12 @@ const createPost = async (e) => {
     about: form.about.value,
   }
 
+  // await fetch(`http://localhost:3000/links/`, {
+  //   method: 'POST',
+  //   body: JSON.stringify(doc),
+  //   headers: { 'Content-Type': 'application/json' }
+  // })
+
   
   await fetch(`https://links-list-app.herokuapp.com/links/`, {
     method: 'POST',

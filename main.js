@@ -1,15 +1,22 @@
+const searchForm = document.querySelector('.search');
+const link = document.getElementById('links');
 
-const getLinks = async () => {
-    // let uri = `http://localhost:${port}/links?_sort=name&_order=asc`;
+const getLinks = async (term) => {
+    // let uri = `http://localhost:3000/links?_sort=name&_order=asc`;
     let uri = 'https://links-list-app.herokuapp.com/links/?_sort=name&_order=asc';
-    const res = await fetch(uri);
-    const links = await res.json();
 
-    // console.log(links);
+    if(term) {
+        uri += `&q=${term}`;
+        link.innerHTML = "";
+    }
+
+    const res = await fetch(uri);
+    const data = await res.json();
+
+    // console.log(data);
     
     
-    links.forEach(i => {
-        var link = document.getElementById('links');
+    data.forEach(i => {
         let template = `
             <div class="fixed-content card " data-aos="fade-up">
                 <h2>${i.name}</h2>
@@ -23,9 +30,13 @@ const getLinks = async () => {
         link.insertAdjacentHTML('beforeend', template);
     });
 
-
-
 }
+
+searchForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+    getLinks(searchForm.term.value.trim());
+
+});
 
 window.addEventListener('DOMContentLoaded', () => getLinks());
 
