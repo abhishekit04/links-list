@@ -3,7 +3,7 @@ const link = document.getElementById('links');
 
 const getLinks = async (term) => {
     // let uri = `http://localhost:3000/links?_sort=name&_order=asc`;
-    let uri = 'https://linklist-vert.vercel.app/links/?_sort=name&_order=asc';
+    let uri = 'https://links-list-app.herokuapp.com/links/?_sort=name&_order=asc';
 
     if(term) {
         uri += `&q=${term}`;
