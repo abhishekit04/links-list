@@ -20,6 +20,13 @@
       "link": "https://nihal-priyadarshi.github.io/Portfolio/",
       "image": "https://nihal-priyadarshi.github.io/Portfolio/images/Nihal.jpg",
       "about": " Web Developer | Programmer | Open Source Contributor"
+    },
+    {
+      "id": 4,
+      "name": "Aditya ",
+      "link": "https://adityakumar99.github.io/",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/aditya.jpg",
+      "about": "student, Intrested in computer science "
     }
   ]
 }
