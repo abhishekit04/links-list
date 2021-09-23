@@ -2,7 +2,7 @@
   "name": "links-list",
   "version": "1.0.0",
   "description": "Add about yourself and Open Source portfolios, websites, social media handles, resume and projects links",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "nodemon server.js",
     "serve": "json-server --watch users.json"
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/flyingsonu122/links-list.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/flyingsonu122/links-list/issues"
   },
