@@ -11,7 +11,7 @@ const createPost = async (e) => {
   }
 
   
-  await fetch(`https://links-list-app.herokuapp.com/links/`, {
+  await fetch(`https://singlebuck.herokuapp.com/links/`, {
     method: 'POST',
     body: JSON.stringify(doc),
     headers: { 'Content-Type': 'application/json' }
