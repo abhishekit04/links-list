@@ -4,7 +4,7 @@ const container = document.querySelector('.details');
 const deleteBtn = document.querySelector('.delete');
 
 const renderDetails = async () => {
-    const res = await fetch(`https://links-list-app.herokuapp.com/links/` + id);
+    const res = await fetch(`https://singlebuck.herokuapp.com/links/` + id);
     if (!res.ok) {
         window.location.replace("./index.html");
     }
@@ -25,7 +25,7 @@ const renderDetails = async () => {
 }
 
 deleteBtn.addEventListener('click', async () => {
-    const res = await fetch(`https://links-list-app.herokuapp.com/links/` + id, {
+    const res = await fetch(`https://singlebuck.herokuapp.com/links/` + id, {
         method: 'DELETE'
     });
     
