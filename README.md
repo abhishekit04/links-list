@@ -7,8 +7,12 @@
 
 
 
-https://www.sonu.live/links-list/
+https://www.sonu.live/links-list
 
 
 
-https://linklist-vert.vercel.app/
+https://linklist-vert.vercel.app
+
+
+
+https://singlebuck.herokuapp.com
