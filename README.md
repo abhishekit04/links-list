@@ -75,12 +75,6 @@ Then add a title and description to your pull request
 
 ### 6. Create a PR
 
----
-
-## Awesome contributors :star_struck:
-<a href="https://github.com/flyingsonu122/links-list/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=flyingsonu122/links-list" />
-</a>
 
 Made with [contributors-img](https://contributors-img.web.app).
 
