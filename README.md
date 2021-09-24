@@ -1,4 +1,4 @@
-# [links-list-app.herokuapp.com](https://links-list-app.herokuapp.com/)
+# [sonu.live/links-list](https://www.sonu.live/links-list/)
 
 **Add About yourself, your portfolio, websites, projects and social media handles links on this website to showcase to the world**
 
