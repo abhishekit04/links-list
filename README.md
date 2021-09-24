@@ -76,7 +76,7 @@ Then add a title and description to your pull request
 ### 6. Create a PR
 
 
-Made with [contributors-img](https://contributors-img.web.app).
+
 
 
 <br><br>
