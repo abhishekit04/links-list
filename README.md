@@ -77,6 +77,12 @@ Then add a title and description to your pull request
 
 
 
+---
+
+Note: If you want a **domain name for free** visit here [github.com/singlebucks/get_free_domain](https://github.com/singlebucks/get_free_domain)
+
+---
+
 
 
 <br><br>
