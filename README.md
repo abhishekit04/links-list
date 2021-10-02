@@ -71,12 +71,15 @@ Then add a title and description to your pull request
 ### 6. Create a Pull Request
 
 
+
+
 ---
 
 Get a [**domain name for free**](https://github.com/singlebucks/get_free_domain)
 
 ---
 
+**Please share and tell about this project to everyone you know to add about themselves or if you have their details you can add it.**
 
 <br><br>
 
