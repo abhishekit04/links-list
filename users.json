@@ -27,6 +27,14 @@
       "link": "https://abhishekit04.github.io/",
       "image": "https://raw.githubusercontent.com/abhishekit04/abhishekit04.github.io/main/abhishek.jpg",
       "about": "An IT student , Programming learner"
+    },
+    {
+      "id": 5,
+      "name": "Pranav Tyagi",
+      "link": "https://impranavtg.github.io/PizZato/",
+      "image": "https://i.ibb.co/FVSZT2t/83161133.jpg",
+      "about": "Web Enthusiast and a java programmer"
     }
+
   ]
 }
