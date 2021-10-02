@@ -45,8 +45,7 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 Whenever you are going to contribute. Please create a separate branch 
 
 ### 3. Add Your image in img folder with your name as image file name
-
-  get it's link in any image format like png, jpg, or jpeg and paste in image link
+*get it's link in any **image format like png, jpg, or jpeg** and paste in image link*
 
 
 ![image](https://user-images.githubusercontent.com/88192065/134696622-a039e8ea-e0bd-46b6-b083-034025e2c930.png)
@@ -55,12 +54,12 @@ Whenever you are going to contribute. Please create a separate branch
 ### 4. Add Your Details in users.json file at last
 
 
-*Don't make changes to others details*
+**Don't make changes to others details**
 
-*please follow the format below*
+**please follow the format below**
 
 ```
-      ,
+     ,
     {
       "id": <leave it blank>,
       "name": " <your name> ",
