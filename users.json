@@ -49,6 +49,14 @@
       "image": "https://raw.githubusercontent.com/chiragagrawal9200/links-list/host/img/aditya.jpeg",
       "about": "MLSA, Web Developer, community and Open Source Enthusiast"
     }
+         ,
+    {
+      "id": 8,
+      "name": " Tushar Gupta ",
+      "link": " https://github.com/Tushar-gupta-git ",
+      "image": " https://avatars.githubusercontent.com/u/75643596?v=4 ",
+      "about": "Web developer and a Pentester "
+    }
 
   ]
 }
