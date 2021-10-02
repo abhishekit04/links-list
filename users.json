@@ -9,27 +9,20 @@
     },
     {
       "id": 2,
-      "name": "Sonu kumar kushwaha",
-      "link": "https://blog-minimal.netlify.app/",
-      "image": "https://i.ibb.co/6RCWgsr/Screenshot-2020-10-24-Sonu-kumar-kushwaha.png",
-      "about": "CS Student and web developer"
-    },
-    {
-      "id": 3,
       "name": "Nihal Priyadarshi",
       "link": "https://nihal-priyadarshi.github.io/Portfolio/",
       "image": "https://nihal-priyadarshi.github.io/Portfolio/images/Nihal.jpg",
       "about": " Web Developer | Programmer | Open Source Contributor"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Aditya ",
       "link": "https://adityakumar99.github.io/",
       "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/aditya.jpeg",
       "about": "student, Intrested in computer science "
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Abhishek Singh",
       "link": "https://abhishekit04.github.io/",
       "image": "https://raw.githubusercontent.com/abhishekit04/abhishekit04.github.io/main/abhishek.jpg",
