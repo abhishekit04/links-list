@@ -46,6 +46,9 @@ Whenever you are going to contribute. Please create a separate branch
 
 ### 3. Add Your image in img folder with your name as image file name
 
+  get it's link in any image format like png, jpg, or jpeg and paste in image link
+
+
 ![image](https://user-images.githubusercontent.com/88192065/134696622-a039e8ea-e0bd-46b6-b083-034025e2c930.png)
 
 
