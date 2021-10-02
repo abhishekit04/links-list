@@ -48,6 +48,13 @@
       "link": "https://chirgagrwl.netlify.app/",
       "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/Chirag.jpeg",
       "about": "MLSA, Web Developer, community and Open Source Enthusiast"
+    },
+    {
+      "id": 8,
+      "name": "Ekta Arora",
+      "link": "https://ektaarora16.github.io/Ekta-Arora-Portfolio/",
+      "image": "https://user-images.githubusercontent.com/90129737/135722874-526e27ff-f82b-4e5c-a6b8-82533bbdaa2c.jpg",
+      "about": "Java Programmer | Open source contributor"
     }
 
   ]
