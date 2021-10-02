@@ -1,10 +1,9 @@
 # [sonu.live/links-list](https://www.sonu.live/links-list/)
 
-**Add About yourself, your portfolio, websites, projects and social media handles links on this website to showcase to the world**
+## Add About yourself, your portfolio, websites, projects and social media handles links on this website to showcase to the world
 
 
 <!---
-
 
 [sonu.live/links-list](https://www.sonu.live/links-list)
 
@@ -25,7 +24,6 @@
 A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
-
 
 ## Rules :fire:
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2021 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
@@ -73,8 +71,7 @@ Whenever you are going to contribute. Please create a separate branch
 
 Then add a title and description to your pull request 
 
-### 6. Create a PR
-
+### 6. Create a Pull Request
 
 
 ---
@@ -84,7 +81,6 @@ Note: If you want a **domain name for free** visit here [github.com/singlebucks/
 ---
 
 
-
 <br><br>
 
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
@@ -92,6 +88,7 @@ Note: If you want a **domain name for free** visit here [github.com/singlebucks/
 **Thanks!**
 
 Thank you for being here! You can find my other project **[here](https://github.com/flyingsonu122?tab=repositories)**.
+
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
 
