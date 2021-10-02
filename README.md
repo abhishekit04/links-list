@@ -17,7 +17,7 @@
 
 --->
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://github.com/flyingsonu122/links-list) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/links-list.svg?logo=github&style=social)](https://github.com/flyingsonu122/links-list)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/links-list.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list) [![GitHub top language](https://img.shields.io/github/languages/top/flyingsonu122/links-list.svg?logo=javascript&logoColor=yellow&style=social)](https://github.com/flyingsonu122/links-list) [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://github.com/flyingsonu122/links-list) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/links-list.svg?logo=github&style=social)](https://github.com/flyingsonu122/links-list)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/links-list.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)
 
 
 
