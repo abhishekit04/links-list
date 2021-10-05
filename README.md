@@ -1,7 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/88192065/134696910-499d704b-df36-45ae-bb8a-e5fc2e5f38ed.png)
-
-
-## [sonu.live/links-list](https://www.sonu.live/links-list/)
+# [sonu.live/links-list](https://www.sonu.live/links-list/)
 
 ### Add About yourself, your portfolio, websites, projects and social media handles links on this website to showcase to the world
 
@@ -19,10 +16,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://github.com/flyingsonu122/links-list) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/links-list.svg?logo=github&style=social)](https://github.com/flyingsonu122/links-list)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/links-list.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)
 
-
-
-## What is Hacktoberfest? :thinking:
-A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Find out more on [https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
+**Note:** this project is not for increasing your PR count, it is for listing profiles of developer around the world.
 
 ## Steps to follow :scroll:
 
