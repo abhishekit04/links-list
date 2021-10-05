@@ -16,7 +16,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://github.com/flyingsonu122/links-list) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/links-list.svg?logo=github&style=social)](https://github.com/flyingsonu122/links-list)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/links-list.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)
 
-**Note:** this project is not for increasing your PR count, it is for listing profiles of developer around the world.
+**Note:** this project is not for increasing your PR count, it is for listing profile of developers around the world.
 
 ## Steps to follow :scroll:
 
