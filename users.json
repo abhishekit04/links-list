@@ -83,6 +83,13 @@
       "link": "https://nikitha2309.github.io/Portfolio/",
       "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/Nikitha.jpg",
       "about": "Full Stack Web Developer | Open Source Contributor | Quick Learner | MultiTasker"
+    },
+    {
+      "id": 13,
+      "name": "Anubhav",
+      "link": "https://the-awesome-anubhav-site.netlify.app/",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/anubhav.jpg",
+      "about": "Open Source and Tech Enthusiast | Computer Vision Enthusiast | Angel Hack Student Ambassador "
     }
   ]
 }
