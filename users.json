@@ -79,11 +79,45 @@
     },
     {
       "id": 12,
+      "name": "Nikitha Reddy",
+      "link": "https://nikitha2309.github.io/Portfolio/",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/Nikitha.jpg",
+      "about": "Full Stack Web Developer | Open Source Contributor | Quick Learner | MultiTasker"
+    },
+    {
+      "id": 13,
+      "name": "Anubhav",
+      "link": "https://the-awesome-anubhav-site.netlify.app/",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/anubhav.jpg",
+      "about": "Open Source and Tech Enthusiast | Computer Vision Enthusiast | Angel Hack Student Ambassador "
+    },
+    {
+      "id": 14,
+      "name": " Shrejal Singh ",
+      "link": " https://github.com/shrejal99/Portfolio ",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/Shrejal.jpg ",
+      "about": " React Developer | Graphic Designer"
+    },
+    {
+      "id": 15,
+      "name": " Suggu Sandeep ",
+      "link": " https://suggusandeep29.github.io/ ",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/suggusandeep.jpg",
+      "about": " Full Stack Devoloper | Undergraduate "
+    },
+    {
+      "id": 16,
+      "name": " Tushar Gupta ",
+      "link": " https://github.com/Tushar-gupta-git ",
+      "image": " https://avatars.githubusercontent.com/u/75643596?v=4 ",
+      "about": "Web developer and a Pentester "
+    },
+    {
+      "id": 17,
       "name": "MOHAMMAD SHAIBAZ QAISAR",
       "link": "https://github.com/MOHAMMADSHAIBAZQAISAR",
       "image": "https://avatars.githubusercontent.com/u/76586987?v=4",
       "about": "Python,java,c++ and etc., programmer | Competitve programmer | Open Source contribuot | Learning Software Develophment"
     }
-
-  ]
-}
+   ]
+  }
